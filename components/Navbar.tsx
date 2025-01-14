@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { useCallback, useEffect, useState } from "react";
 
 import NavbarItem from "./NavbarItem";

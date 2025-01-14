@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from 'react';
 import { signOut } from "next-auth/react";
 import useCurrentUser from '@/hooks/useCurrentUser';
